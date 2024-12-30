@@ -43,4 +43,9 @@ Once the application is running, enter the required parameters to get a notifica
 - **Sender Email (Optional)**: Email of the sender.
 - **Email Password (Optional)**: Email (app) password of the sender.
 - **Recipient Email (Optional)**: Email of the receiver.
-- **Target Price**: Target Price of the user.
+- **Target Price (Optional)**: Target Price of the user.
+
+## Disclaimer
+
+1. The code does not store personal information. It is just to test the working of email sending function.
+2. Has two version, one runs locally and another in streamlit environment. The local one runs infinitely, streamlit one runs on button press.
