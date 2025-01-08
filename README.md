@@ -4,7 +4,7 @@
 
 This application tracks the product price periodically and notifies the user of price drop.
 
-##Live Demo
+## Live Demo
 
 The live version can be found on [here](https://periodicpricetracker-74dd.onrender.com).
 
